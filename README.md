@@ -1,2 +1,2 @@
-# codespace_demo
-CodeSpace Vue Js Demo
+# wpi-apps-tmpl
+Midone - Vue 3 Admin Dashboard Template + HTML Version + XD Design File
